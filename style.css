@@ -1,0 +1,36 @@
+body {
+  background-color: beige;
+}
+
+#grid,
+#sidePanel {
+  display: inline-block;
+  vertical-align: top;
+}
+
+#grid {
+  font-size: 0;
+  margin-right: 30px;
+}
+
+.square {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.selected {
+  background-color: black;
+}
+
+button {
+  padding: 5px;
+}
+
+#clearButton,
+#saveButton,
+#loadButton {
+  margin-right: 5px;
+}

@@ -1,0 +1,1 @@
+This is an app that allows the user to create a art on a grid. The can save their art for later or they can select a preset drawingof a smiley face.
